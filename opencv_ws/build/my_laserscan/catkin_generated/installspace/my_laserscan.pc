@@ -1,0 +1,8 @@
+prefix=/home/kumakai/workspace/opencv_ws/install
+
+Name: my_laserscan
+Description: Description of my_laserscan
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/kumakai/workspace/opencv_ws/install/lib 
+Requires: 

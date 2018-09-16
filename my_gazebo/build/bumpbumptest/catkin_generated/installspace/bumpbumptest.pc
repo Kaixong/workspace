@@ -1,0 +1,8 @@
+prefix=/home/kumakai/workspace/my_gazebo/install
+
+Name: bumpbumptest
+Description: Description of bumpbumptest
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/kumakai/workspace/my_gazebo/install/lib 
+Requires: 
