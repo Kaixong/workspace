@@ -14,7 +14,7 @@ $ catkin_create_pkg dataglovetest roscpp std_msgs
 
 2.依照/home/[User's name]/workspace/dataglove備份/src/dataglovetest/package.xml修改/home/[User's name]/workspace/dataglove/src/dataglovetest/package.xml 中有關message_generation的部份
 
-3.複製/home/shabadabadoo/workspace/dataglove備份/src目錄下，除/home/[User's name]/workspace/dataglove備份/src/dataglovetest/package.xml與/home/[User's name]/workspace/dataglove備份/src/ihand/ihand_scripts_joy 資料夾之外，所有檔案至相應/home/[User's name]/workspace/dataglove/src位置
+3.複製/home/[User's name]/workspace/dataglove備份/src目錄下，除/home/[User's name]/workspace/dataglove備份/src/dataglovetest/package.xml與/home/[User's name]/workspace/dataglove備份/src/ihand/ihand_scripts_joy 資料夾之外，所有檔案至相應/home/[User's name]/workspace/dataglove/src位置
 
 4.放置5DT函式庫:
 $ ./home/[User's name]/workspace/dataglove備份/5DTDataGloveUltra_SDK_Linux_32and64bit_v2.32_25March2011/fdGlove/install/64bit/install.sh
