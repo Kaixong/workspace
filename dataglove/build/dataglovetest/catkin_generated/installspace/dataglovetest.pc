@@ -1,0 +1,8 @@
+prefix=/home/shabadabadoo/workspace/dataglove/install
+
+Name: dataglovetest
+Description: Description of dataglovetest
+Version: 0.0.0
+Cflags: -I/home/shabadabadoo/workspace/dataglove/install/include
+Libs: -L/home/shabadabadoo/workspace/dataglove/install/lib -ldataglovetest
+Requires: roscpp std_msgs message_runtime

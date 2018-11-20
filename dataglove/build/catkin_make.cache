@@ -1,0 +1,2 @@
+dataglovetest:ihand/ihand:ihand/ihand_control:ihand/pololu_maestro_servo
+-DCATKIN_DEVEL_PREFIX=/home/shabadabadoo/workspace/dataglove/devel -DCMAKE_INSTALL_PREFIX=/home/shabadabadoo/workspace/dataglove/install -G Unix Makefiles

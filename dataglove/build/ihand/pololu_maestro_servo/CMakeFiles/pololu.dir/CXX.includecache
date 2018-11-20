@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shabadabadoo/workspace/dataglove/src/ihand/pololu_maestro_servo/include/pololu_maestro_servo/pololu_protocol.h
+iostream
+-
+vector
+-
+memory
+-
+
+/home/shabadabadoo/workspace/dataglove/src/ihand/pololu_maestro_servo/src/pololu_protocol.cpp
+pololu_maestro_servo/pololu_protocol.h
+/home/shabadabadoo/workspace/dataglove/src/ihand/pololu_maestro_servo/src/pololu_maestro_servo/pololu_protocol.h
+boost/asio.hpp
+-
+boost/thread/mutex.hpp
+-
+
