@@ -110,9 +110,6 @@ hokuyo_node_EXTERNAL_OBJECTS =
 /home/kumakai/workspace/my_gazebo/devel/lib/gazebo_plugins/hokuyo_node: /usr/lib/x86_64-linux-gnu/libprotobuf.so
 /home/kumakai/workspace/my_gazebo/devel/lib/gazebo_plugins/hokuyo_node: /usr/lib/x86_64-linux-gnu/libsdformat.so
 /home/kumakai/workspace/my_gazebo/devel/lib/gazebo_plugins/hokuyo_node: /usr/lib/x86_64-linux-gnu/libignition-math2.so
-/home/kumakai/workspace/my_gazebo/devel/lib/gazebo_plugins/hokuyo_node: /usr/lib/x86_64-linux-gnu/libOgreMain.so
-/home/kumakai/workspace/my_gazebo/devel/lib/gazebo_plugins/hokuyo_node: /usr/lib/x86_64-linux-gnu/libOgreTerrain.so
-/home/kumakai/workspace/my_gazebo/devel/lib/gazebo_plugins/hokuyo_node: /usr/lib/x86_64-linux-gnu/libOgrePaging.so
 /home/kumakai/workspace/my_gazebo/devel/lib/gazebo_plugins/hokuyo_node: /usr/lib/x86_64-linux-gnu/libignition-math2.so
 /home/kumakai/workspace/my_gazebo/devel/lib/gazebo_plugins/hokuyo_node: /opt/ros/kinetic/lib/libnodeletlib.so
 /home/kumakai/workspace/my_gazebo/devel/lib/gazebo_plugins/hokuyo_node: /opt/ros/kinetic/lib/libbondcpp.so
@@ -165,9 +162,6 @@ hokuyo_node_EXTERNAL_OBJECTS =
 /home/kumakai/workspace/my_gazebo/devel/lib/gazebo_plugins/hokuyo_node: /usr/lib/x86_64-linux-gnu/libboost_atomic.so
 /home/kumakai/workspace/my_gazebo/devel/lib/gazebo_plugins/hokuyo_node: /usr/lib/x86_64-linux-gnu/libpthread.so
 /home/kumakai/workspace/my_gazebo/devel/lib/gazebo_plugins/hokuyo_node: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so
-/home/kumakai/workspace/my_gazebo/devel/lib/gazebo_plugins/hokuyo_node: /usr/lib/x86_64-linux-gnu/libOgreMain.so
-/home/kumakai/workspace/my_gazebo/devel/lib/gazebo_plugins/hokuyo_node: /usr/lib/x86_64-linux-gnu/libOgreTerrain.so
-/home/kumakai/workspace/my_gazebo/devel/lib/gazebo_plugins/hokuyo_node: /usr/lib/x86_64-linux-gnu/libOgrePaging.so
 /home/kumakai/workspace/my_gazebo/devel/lib/gazebo_plugins/hokuyo_node: /opt/ros/kinetic/lib/libnodeletlib.so
 /home/kumakai/workspace/my_gazebo/devel/lib/gazebo_plugins/hokuyo_node: /opt/ros/kinetic/lib/libbondcpp.so
 /home/kumakai/workspace/my_gazebo/devel/lib/gazebo_plugins/hokuyo_node: /usr/lib/x86_64-linux-gnu/libuuid.so

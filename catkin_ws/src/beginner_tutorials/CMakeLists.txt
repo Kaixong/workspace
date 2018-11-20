@@ -32,9 +32,9 @@ include_directories(include ${catkin_INCLUDE_DIRS})
 #add_dependencies(BumpBump beginner_tutorials_generate_messages_cpp)
 
 ## image_converter.cpp
-add_executable(image_converter src/OpenCVTest.cpp)
-target_link_libraries(image_converter ${catkin_LIBRARIES})
-add_dependencies(image_converter beginner_tutorials_generate_messages_cpp)
+add_executable(listener listener.cpp)
+target_link_libraries(listener ${catkin_LIBRARIES})
+add_dependencies(listener)
 
 ## talker.cpp & listener.cpp
 #add_executable(talker src/talker.cpp)

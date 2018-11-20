@@ -7,9 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/kumakai/workspace/my_gazebo/devel:$CMAKE_PREFIX_PATH"
-export LD_LIBRARY_PATH="/home/kumakai/workspace/my_gazebo/devel/lib:$LD_LIBRARY_PATH"
-export PKG_CONFIG_PATH="/home/kumakai/workspace/my_gazebo/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD="/home/kumakai/workspace/my_gazebo/build"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/kumakai/workspace/my_gazebo/devel/share/common-lisp"
-export ROS_PACKAGE_PATH="/home/kumakai/workspace/my_gazebo/src:$ROS_PACKAGE_PATH"

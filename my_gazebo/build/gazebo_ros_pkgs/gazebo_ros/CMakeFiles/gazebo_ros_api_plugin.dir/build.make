@@ -110,9 +110,6 @@ gazebo_ros_api_plugin_EXTERNAL_OBJECTS =
 /home/kumakai/workspace/my_gazebo/devel/lib/libgazebo_ros_api_plugin.so: /usr/lib/x86_64-linux-gnu/libprotobuf.so
 /home/kumakai/workspace/my_gazebo/devel/lib/libgazebo_ros_api_plugin.so: /usr/lib/x86_64-linux-gnu/libsdformat.so
 /home/kumakai/workspace/my_gazebo/devel/lib/libgazebo_ros_api_plugin.so: /usr/lib/x86_64-linux-gnu/libignition-math2.so
-/home/kumakai/workspace/my_gazebo/devel/lib/libgazebo_ros_api_plugin.so: /usr/lib/x86_64-linux-gnu/libOgreMain.so
-/home/kumakai/workspace/my_gazebo/devel/lib/libgazebo_ros_api_plugin.so: /usr/lib/x86_64-linux-gnu/libOgreTerrain.so
-/home/kumakai/workspace/my_gazebo/devel/lib/libgazebo_ros_api_plugin.so: /usr/lib/x86_64-linux-gnu/libOgrePaging.so
 /home/kumakai/workspace/my_gazebo/devel/lib/libgazebo_ros_api_plugin.so: /usr/lib/x86_64-linux-gnu/libignition-math2.so
 /home/kumakai/workspace/my_gazebo/devel/lib/libgazebo_ros_api_plugin.so: /opt/ros/kinetic/lib/libroslib.so
 /home/kumakai/workspace/my_gazebo/devel/lib/libgazebo_ros_api_plugin.so: /opt/ros/kinetic/lib/librospack.so
@@ -151,9 +148,6 @@ gazebo_ros_api_plugin_EXTERNAL_OBJECTS =
 /home/kumakai/workspace/my_gazebo/devel/lib/libgazebo_ros_api_plugin.so: /usr/lib/x86_64-linux-gnu/libboost_atomic.so
 /home/kumakai/workspace/my_gazebo/devel/lib/libgazebo_ros_api_plugin.so: /usr/lib/x86_64-linux-gnu/libpthread.so
 /home/kumakai/workspace/my_gazebo/devel/lib/libgazebo_ros_api_plugin.so: /usr/lib/x86_64-linux-gnu/libtinyxml.so
-/home/kumakai/workspace/my_gazebo/devel/lib/libgazebo_ros_api_plugin.so: /usr/lib/x86_64-linux-gnu/libOgreMain.so
-/home/kumakai/workspace/my_gazebo/devel/lib/libgazebo_ros_api_plugin.so: /usr/lib/x86_64-linux-gnu/libOgreTerrain.so
-/home/kumakai/workspace/my_gazebo/devel/lib/libgazebo_ros_api_plugin.so: /usr/lib/x86_64-linux-gnu/libOgrePaging.so
 /home/kumakai/workspace/my_gazebo/devel/lib/libgazebo_ros_api_plugin.so: /opt/ros/kinetic/lib/libroslib.so
 /home/kumakai/workspace/my_gazebo/devel/lib/libgazebo_ros_api_plugin.so: /opt/ros/kinetic/lib/librospack.so
 /home/kumakai/workspace/my_gazebo/devel/lib/libgazebo_ros_api_plugin.so: /usr/lib/x86_64-linux-gnu/libpython2.7.so
