@@ -1,0 +1,8 @@
+prefix=/home/kumakai/workspace/dataglove/devel
+
+Name: pololu_maestro_servo
+Description: Description of pololu_maestro_servo
+Version: 1.0.0
+Cflags: -I/home/kumakai/workspace/dataglove/devel/include -I/home/kumakai/workspace/dataglove/src/ihand/pololu_maestro_servo/include
+Libs: -L/home/kumakai/workspace/dataglove/devel/lib -lpololu
+Requires: roscpp std_msgs

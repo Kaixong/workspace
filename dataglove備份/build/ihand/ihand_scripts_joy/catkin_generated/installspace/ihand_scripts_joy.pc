@@ -1,0 +1,8 @@
+prefix=/home/kumakai/workspace/dataglove/install
+
+Name: ihand_scripts_joy
+Description: Description of ihand_scripts_joy
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/kumakai/workspace/dataglove/install/lib 
+Requires: 

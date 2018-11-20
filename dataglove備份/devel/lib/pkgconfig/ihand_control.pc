@@ -1,0 +1,8 @@
+prefix=/home/kumakai/workspace/dataglove/devel
+
+Name: ihand_control
+Description: Description of ihand_control
+Version: 1.0.0
+Cflags: -I/home/kumakai/workspace/dataglove/devel/include
+Libs: -L/home/kumakai/workspace/dataglove/devel/lib 
+Requires: roscpp std_msgs

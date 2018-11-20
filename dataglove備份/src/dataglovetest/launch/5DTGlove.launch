@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="dataglovetest" type="dataglove_publisher_OnlyRight" name="dataglove_publisher_OnlyRight"/>
+  
+</launch>
