@@ -168,7 +168,7 @@ int main(int argc, char **argv)//
 			float Rbaby=(gloveA_scaled[FD_LITTLENEAR]-range[4][1]);
 		
 			//判斷Gesture		
-			float zone = 0.5;
+                        float zone = 0.5;
 			if(fabs(1-Rthumb/(range[0][0]-range[0][1]))>(1-zone)){
 			Gesture = Gesture + 16;
 			}
@@ -207,7 +207,7 @@ int main(int argc, char **argv)//
 			msg.middle=20-20*poses[Gesture][1],			
 			msg.ring=20-20*poses[Gesture][2],			
 			msg.baby=20-20*poses[Gesture][3],	
-			msg.trapezium=20,
+                        msg.trapezium=20-10*poses[Gesture][4],  //range for open & half status
 			Gesture	
 		);
 
