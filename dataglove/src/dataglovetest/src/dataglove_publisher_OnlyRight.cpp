@@ -156,8 +156,13 @@ int main(int argc, char **argv)//
 			msg.middle=fabs((Rmiddle/(range[2][0]-range[2][1]))*20),			
 			msg.ring=fabs((Rring/(range[3][0]-range[3][1]))*20),	
 			msg.baby=fabs((Rbaby/(range[4][0]-range[4][1]))*20),
-                        msg.trapezium=fabs(20-(Rthumb/(range[0][0]-range[0][1]))*10)//range for open & half status
-		);	
+                        msg.trapezium=fabs(20-(Rthumb/(range[0][0]-range[0][1]))*20)//range for open & half status
+                );
+
+                if(msg.index>15&&msg.thumb>10){ //Adviod FINGERS' HITS (Need to be improved.)
+                    msg.thumb=10;
+                }
+
 		ROS_INFO("a:%d|%d|%d|%d|%d|%f",
 			gloveA_scaled[FD_THUMBNEAR],
 			gloveA_scaled[FD_INDEXNEAR],
